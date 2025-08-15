@@ -2,7 +2,8 @@
 # 1
 print("hallo", 5555,'wow', 999 , 10+20 -5,152.875)
 #2 ไม่มีเว้นวรรค ใช้ + (ข้อมูลที่ไม่ใช่ string ต้องทำให้เป็น string ใช้ฟังก์ชัน str())
-print('hallo'+str)+'wow'+str(999)+str(True)+'hi'+str(10+20-5)+str(152.875)
+print('hallo'+str(555)+'wow'+str(999)+str(True)+'hi'+str(10 + 20 - 5)+str(152.875))
+
 print('hallo' +str(555)+' wow '+str(9999)+' '+str(True)+' hi ' +str(10+20-5)+' '+str(152.875))
 
 #วิธีที่ 3 ใช้เมธอต format() โดยช้อมูลที่แสดงอยู่ในรูปของ string 
