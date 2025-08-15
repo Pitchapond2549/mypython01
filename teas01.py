@@ -1,3 +1,5 @@
-print("hallo world")
-print("hey")
-print("hi")
+# singie line comment
+print("hallo word") # wow wow wow 
+
+# multi line comemet
+
